@@ -133,9 +133,16 @@ O código foi analisado e validado pelo estudante por meio da execução dos tes
 
 ```bash
 python app.py --test
-
+```
+```bash
 python app.py --invoke
-
+```
+```bash
 python app.py --serve
-
+```
+```bash
 python app.py --timeout
+```
+## Vídeo de evidência
+
+[Assistir ao vídeo da atividade](https://youtu.be/d-_ZUGtrl90)
